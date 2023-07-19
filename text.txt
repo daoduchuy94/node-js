@@ -1,0 +1,8 @@
+
+
+Terminal:
+npm init -y 
+=> package.json
+
+git init 
+git add .
